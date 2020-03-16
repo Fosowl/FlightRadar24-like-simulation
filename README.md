@@ -9,6 +9,9 @@
 
 **help** : ```./my_radar -h```
 
+
+**USAGE** : ```./my_radar data.txt```
+
 this program take a "map" in argument containing all the information about the tower and plane the formating is the following one :
 
 Aircrafts are described by:
@@ -32,4 +35,4 @@ Control towers are described by:
     • One integer corresponding to the radius of the tower’s control area (in percentage of the greatest side
     of the screen).
 
-** you can find a "map generator" for this project at https://github.com/Fosowl/data-generator-for-My_radar-EPITECH-project- **
+**you can find a "map generator" for this project at** https://github.com/Fosowl/data-generator-for-My_radar-EPITECH-project-
