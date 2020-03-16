@@ -1,6 +1,7 @@
 # FlightRadar24-like-simulation
 
-flightRadar24 like simulation in C / CSFML also know as my_radar at epitech.
+
+## *flightRadar24 like simulation in C / CSFML also know as my_radar at epitech.*
 
 
 ![](docs/radar.png)
@@ -31,4 +32,4 @@ Control towers are described by:
     • One integer corresponding to the radius of the tower’s control area (in percentage of the greatest side
     of the screen).
 
-**you can find a "map generator" for this project at https://github.com/Fosowl/data-generator-for-My_radar-EPITECH-project- **
+** you can find a "map generator" for this project at https://github.com/Fosowl/data-generator-for-My_radar-EPITECH-project- **
