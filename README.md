@@ -2,6 +2,10 @@
 
 flightRadar24 like simulation in C / CSFML also know as my_radar at epitech.
 
+
+![](docs/radar.png)
+
+
 **help** : ./my_radar -h
 
 this program take a "map" in argument containing all the information about the tower and plane the formating is the following one :
